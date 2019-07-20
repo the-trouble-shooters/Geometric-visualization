@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
   <Tracking>
-    <ImageTarget name="AR" size="1.000000 0.688281" />
+    <ImageTarget name="Tetrahedron" size="1.000000 0.988054" />
+    <ImageTarget name="Square_pyramid" size="1.000000 0.999004" />
+    <ImageTarget name="Sphere" size="1.000000 0.999004" />
+    <ImageTarget name="Prism" size="1.000000 0.996018" />
+    <ImageTarget name="Octahedron" size="1.000000 0.999004" />
+    <ImageTarget name="Hexagonal_prism" size="1.000000 1.012097" />
+    <ImageTarget name="Hemisphere" size="1.000000 0.996018" />
+    <ImageTarget name="Ellipsoid" size="1.000000 0.996018" />
+    <ImageTarget name="Cylinder" size="1.000000 0.999004" />
+    <ImageTarget name="Cuboid" size="1.000000 0.999004" />
+    <ImageTarget name="Cube" size="1.000000 0.999004" />
+    <ImageTarget name="Cone" size="1.000000 0.999004" />
   </Tracking>
 </QCARConfig>
